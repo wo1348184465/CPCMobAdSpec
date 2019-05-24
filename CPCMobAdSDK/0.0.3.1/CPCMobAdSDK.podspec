@@ -45,3 +45,29 @@ CPCMobAdSDK 广告SDK , 包含 :多图 ,图文 ,大图 ,横幅 ,文字链 ,视�
 
 end
 
+
+
+
+# Pod::Spec.new do |s|
+#   s.name             = 'CPCMobAdSDK'
+#   s.version          = '0.1.1'
+#   s.summary          = 'CPCMobAdSDK  includes three graphic ads, group ads, graphic ads, banner ads, Video ads and Launch ads. CPC was replaced with frame adaptation by masonry.add BaiduMobAdSDK'
+
+
+
+#   s.description      = <<-DESC
+# TODO: Add long description of the pod here.
+#                        DESC
+
+#   s.homepage         = 'https://www.jianshu.com/u/5f9dd7c82945'
+#   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+#   s.license          = { :type => 'MIT', :file => 'LICENSE' }
+#   s.author           = { '丁昊' => 'dinghao@qutoutiao.net' }
+#   s.source           = { :git => 'git@git.qutoutiao.net:dinghao/CPCMobAdSDK.git', :tag => s.version.to_s }
+#   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+
+#   s.ios.deployment_target = '8.0'
+
+#   #s.source_files = 'CPCMobAdSDK/Classes/**/*'
+  
+# end
